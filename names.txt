@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,hwu478,Wu,Haorui
 employee,xzhong57,Zhong,Xinrui
